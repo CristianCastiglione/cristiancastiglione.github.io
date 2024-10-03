@@ -9,37 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
+Current academic positions
+======
+* 2024 - present: Postdoctoral Research Fellow
+  * Bocconi University, Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home))
+  * Supervisor: Prof. [Daniele Durante](https://danieledurante.github.io/web/)
+  * Project: Causes of deAth dependence stRuctures and the cOmpositioNal effecT on ovErall mortality ([CARONTE](https://danieledurante.github.io/web/caronte.html))
+
+Past academic positions
+======
+* 2023 - 2024: Postdoctoral Research Fellow, 
+  * University of Padova, Department of Statistical Sciences
+  * Supervisor: Prof. [Davide Risso](https://drisso.github.io/index.html)
+  * Project: Statistical methods and models for the integration of multiomic data
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2019 - 2023: Ph.D. in Statistical Sciences, University of Padua
+* 2016 - 2018: M.S. in Statistical Sciences, University of Padua
+* 2013 - 2016: B.S. in Statistics for Economics and Finance, University of Padua, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2019 - September 2019: Junior consultant in business intelligence and analytics
+  * Company: Blue BI S.R.L.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced knowledge of R, C++, Python and Julia
+* Good knowledge of Stan and Keras
+* Basic knowledge of Matlab
+* Good knowledge of LaTeX
+* Basic knowledge of MySQL
 
 Publications
 ======
@@ -59,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
