@@ -12,7 +12,7 @@ author_profile: true
 
 * [BayesGLMM.jl](https://github.com/CristianCastiglione/BayesGLMM.jl):
   A *Julia* package for the approximate estimation of Bayesian generalized linear mixed and additive models via efficient non-conjugate variational message passing. 
-  The package support all the most commonly used exponential family likelihoods, as well as quasi- and pseudo-likelihood models, including non-regular loss functions in a generalized Bayes framework. 
+  The package supports all the most commonly used exponential family likelihoods, as well as quasi- and pseudo-likelihood models, including non-regular loss functions in a generalized Bayes framework. 
   Some examples are support vector machines, Huber regression, quantile regression and expectile regression.
   An *R/C++* implementation of this software will be released soon.
 
