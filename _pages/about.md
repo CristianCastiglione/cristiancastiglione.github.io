@@ -21,7 +21,6 @@ Till now, I worked on environmental applications with non-stationary spatial dep
 Research Interests
 ======
 
-<br>
 <table border="0">
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> 
     Bayesian statistics 
@@ -42,12 +41,10 @@ Research Interests
     Variational approximations 
   </font></td></tr>
 </table>
-</br>
 
 Education 
 ======
 
-<br>
 <table border="0">
   <tr><td><img src="../images/49944.png" width="20"> <font style="font-size:17px"> 
       Ph.D. in Statistical Sciences, University of Padua, 2023 
@@ -59,4 +56,3 @@ Education
       B.S. in Statistics for Economics and Finance, University of Padua, 2016 
     </font></td></tr>
 </table>
-</br>
