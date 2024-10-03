@@ -12,9 +12,12 @@ I am a postdoctoral research fellow in statistics and data science at the Boccon
 
 I am currently involved in the PRIN projects "Complex Graphical Models for Biological Network Sciance" and "Causes of deAth dependence stRuctures and the cOmpositioNal effecT on ovErall mortality" ([CARONTE](https://danieledurante.github.io/web/caronte.html)). 
 
+I am interested in 
+
 Research Interests
 ======
 
+<br>
 <table border="0">
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> Bayesian statistics </font></td></tr>
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> Computational methods </font></td></tr>
@@ -23,10 +26,12 @@ Research Interests
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> Dynamic models </font></td></tr>
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> Variational approximations </font></td></tr>
 </table>
+</br>
 
 Education 
 ======
 
+<br>
 <table border="0">
   <tr><td><img src="../images/49944.png" width="20"> <font style="font-size:17px"> 
       Ph.D. in Statistical Sciences, University of Padua, 2023 
@@ -38,3 +43,4 @@ Education
       B.S. in Statistics for Economics and Finance, University of Padua, 2016 
     </font></td></tr>
 </table>
+</br>
