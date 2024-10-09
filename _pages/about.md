@@ -17,7 +17,7 @@ I really enjoy implementing my own code in the most efficient way possible and I
 In all my works, I put much effort into providing user-friendly software with a wide ecosystem of tools for pre-processing, estimation and post-processing of the results to enhance the usability of the model.
 Till now, I worked on environmental applications with non-stationary spatial dependence, high-dimensional omics data affected by both latent biological processes and technical sources of bias, and dynamic networks with time-varying clustering patterns.
 
-A reasonably up-to-date version of my CV can be found [here](https://github.com/CristianCastiglione/cristiancastiglione.github.io/files/cv_cristian_cstiglione_2.pdf).
+A reasonably up-to-date version of my CV can be found [here](https://github.com/CristianCastiglione/cristiancastiglione.github.io/blob/master/files/cv_cristian_castiglione_2.pdf).
 
 Research Interests
 ======
