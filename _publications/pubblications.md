@@ -24,7 +24,7 @@ author_profile: true
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L.M. (2024). 
   PDE-regularised spatial quantile regression.
-  *Journal of Multivariate Analysis* (In press).
+  *Journal of Multivariate Analysis*.
   ([pdf](https://doi.org/10.1016/j.jmva.2024.105381)).
 
 * Sottosanti A., Risso D., **Castiglione C.** (2022) 
