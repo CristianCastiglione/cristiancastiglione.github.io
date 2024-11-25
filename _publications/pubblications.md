@@ -19,6 +19,12 @@ author_profile: true
   *Submitted* 
   ([pdf](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
+* Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2024+)
+  A semiparametric space-time quantile regression model.
+
+* De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2024+)
+  Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.
+
 
 **Journals**
 
@@ -65,12 +71,6 @@ author_profile: true
 
 * **Castiglione C.**, Maestrini L., Bernardi M. (2024+).
   On frequentist variational inference for generalized additive models. 
-
-* Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2024+)
-  A PDE-regularized semiparametric space-time quantile regression model.
-
-* De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2024+)
-  Spatial multiple quantile regression with PDE regularization.
 
 * Bianco N., **Castiglione C.** (2024+). 
   Improving Bayesian semi-parametric regression via increasing shrinkage priors.
