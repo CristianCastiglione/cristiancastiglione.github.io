@@ -19,6 +19,10 @@ author_profile: true
   *Submitted* 
   ([pdf](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
+* **Castiglione C.**, Segers A., Clement L., Risso D. (2024+)
+  Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
+  ([pdf](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
+
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2024+)
   A semiparametric space-time quantile regression model.
 
@@ -64,10 +68,6 @@ author_profile: true
 
 * Romanò G., **Castiglione C.**, Durante D. (2024+)
   Dynamic stochastic block models for sequences of bipartite networks: an application to US causes of death.
-
-* **Castiglione C.**, Segers A., Clement L., Risso D. (2024+)
-  Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
-  ([code](https://github.com/CristianCastiglione/sgdGMF))
 
 * **Castiglione C.**, Maestrini L., Bernardi M. (2024+).
   On frequentist variational inference for generalized additive models. 
