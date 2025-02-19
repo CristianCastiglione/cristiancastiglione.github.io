@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A reasonably up-to-date version of my CV can be found [here](https://cristiancastiglione.github.io/files/cv_cristian_castiglione_2.pdf).
+
 Current academic positions
 ======
 * 2024 - present: Postdoctoral Research Fellow
