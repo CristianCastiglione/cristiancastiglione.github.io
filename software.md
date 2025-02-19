@@ -9,6 +9,7 @@ author_profile: true
   An *R/C++* package for the estimation of high-dimensional matrix factorization models under dispersion exponential family likelihoods, including quasi-likelihood estimating equations and Negative-Binomial models. 
   In particular, the package implements well-established deterministic estimation algorithms, such as iterated least squares and quasi-Newton, as well as innovative stochastic optimization methods, such as adaptive stochastic gradient descent.
   It also provides several efficient initialization approaches, a rich environment of functions for postprocessing analysis and the possibility to perform parallel computing.
+  The stable and development versions of the package are available, respectively, on CRAN ([link](https://CRAN.R-project.org/package=sgdGMF)) and GitHub ([link](https://github.com/CristianCastiglione/sgdGMF)).
 
 * [BayesGLMM.jl](https://github.com/CristianCastiglione/BayesGLMM.jl):
   A *Julia* package for the approximate estimation of Bayesian generalized linear mixed and additive models via efficient non-conjugate variational message passing. 
