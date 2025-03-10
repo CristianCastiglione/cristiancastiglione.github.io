@@ -44,6 +44,11 @@ author_profile: true
 
 **Proceedings**
 
+* De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).
+    Penalised Spatial Quantile Regression: Application to Air Quality Data.
+    *Book of Short Papers 2024, Proceedings of the 53rd Scientific Meeting of the Italian Statistical Society* 
+    (Pollice, A., Mariani, P.), pp. 532--537.
+
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L. M. (2023). 
   Penalized quantile regression for spatially distributed data.
   *Book of Short Papers GRASPA 2023, Proceedings of the GRASPA 2023 Conference* 
