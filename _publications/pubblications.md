@@ -71,16 +71,16 @@ author_profile: true
 
 **Ongoing projects**
 
-* Romanò G., **Castiglione C.**, Durante D. (2024+)
+* Romanò G., **Castiglione C.**, Durante D. (2025+)
   Dynamic stochastic block models for sequences of bipartite networks: an application to US causes of death.
 
-* **Castiglione C.**, Maestrini L., Bernardi M. (2024+).
+* **Castiglione C.**, Maestrini L., Bernardi M. (2025+).
   On frequentist variational inference for generalized additive models. 
 
-* Bianco N., **Castiglione C.** (2024+). 
+* Bianco N., **Castiglione C.** (2025+). 
   Improving Bayesian semi-parametric regression via increasing shrinkage priors.
 
-* Carlesi P., Bianco N., **Castiglione C.**, Bernardi M. (2024+). 
+* Carlesi P., Bianco N., **Castiglione C.**, Bernardi M. (2025+). 
   Dynamic quantiles graphical models.
 
 
