@@ -45,9 +45,9 @@ author_profile: true
 **Proceedings**
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).
-    Penalised Spatial Quantile Regression: Application to Air Quality Data.
-    *Book of Short Papers 2024, Proceedings of the 53rd Scientific Meeting of the Italian Statistical Society* 
-    (Pollice, A., Mariani, P.), pp. 532--537.
+  Penalised Spatial Quantile Regression: Application to Air Quality Data.
+  *Book of Short Papers 2024, Proceedings of the 53rd Scientific Meeting of the Italian Statistical Society* 
+  (Pollice, A., Mariani, P.), pp. 532--537.
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L. M. (2023). 
   Penalized quantile regression for spatially distributed data.
@@ -70,6 +70,10 @@ author_profile: true
   (Perna, C., Salvati, N. and Schirripa Spagnolo, F.), pp. 683–688.
 
 **Ongoing projects**
+
+* Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025)
+  omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.
+  ([pdf](https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1))
 
 * Romanò G., **Castiglione C.**, Durante D. (2025+)
   Dynamic stochastic block models for sequences of bipartite networks: an application to US causes of death.
