@@ -76,7 +76,7 @@ author_profile: true
   ([pdf](https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1))
 
 * Romanò G., **Castiglione C.**, Durante D. (2025+)
-  Dynamic stochastic block models for sequences of bipartite networks: an application to US causes of death.
+  Dependent stochastic block models for sequences of directed networks with application to causes of death co-occurences.
 
 * **Castiglione C.**, Maestrini L., Bernardi M. (2025+).
   On frequentist variational inference for generalized additive models. 
