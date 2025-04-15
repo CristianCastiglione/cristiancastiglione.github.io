@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral research fellow in statistics and data science at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)), under the supervision of [Daniele Durante](https://danieledurante.github.io/web/).
 
-I am currently involved in the PRIN projects "Complex Graphical Models for Biological Network Sciance" and "Causes of deAth dependence stRuctures and the cOmpositioNal effecT on ovErall mortality" ([CARONTE](https://danieledurante.github.io/web/caronte.html)). 
+I am currently involved in the PRIN projects "Complex Graphical Models for Biological Network Sciance" and "Causes of deAth dependence stRuctures and the cOmpositioNal effecT on ovErall mortality" ([CARONTE](https://danieledurante.github.io/web/caronte.html)), and in the ERC project "sociogeNEsis of criMinal nEtworks: reconStruction, dIscovery and diSruption" ([NEMESIS](https://danieledurante.github.io/web/nemesis.html)).
 
 I am interested in the development of statistical models and computational tools for the analysis of complex data characterized by non-trivial dependence structures, playing both with frequentist and Bayesian approaches.
 I really enjoy implementing my own code in the most efficient way possible and I like experimenting with the specific features of different programming languages.
@@ -34,6 +34,9 @@ Research Interests
   </font></td></tr>
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> 
     Mixed and additive models 
+  </font></td></tr>
+  <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> 
+    Network data
   </font></td></tr>
   <tr><td><img src="../images/index2.png" width="20"> <font style="font-size:17px"> 
     Dynamic models 
