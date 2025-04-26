@@ -26,11 +26,12 @@ author_profile: true
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2024+)
   A semiparametric space-time quantile regression model.
 
-* De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2024+)
-  Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.
-
 
 **Journals**
+
+* De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025)
+  Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.
+  *Environmental and Ecological Statistics* (to appear).
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L.M. (2024). 
   PDE-regularised spatial quantile regression.
