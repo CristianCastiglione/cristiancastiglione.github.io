@@ -12,7 +12,7 @@ author_profile: true
   Bachelor's degree in International Politics and Government, Bocconi University
 * *Quantitive Methods for Social Sciences (Module II - Data Analytics)*: Teaching assistant, 14 hours  
   Bachelor's degree in International Politics and Government, Bocconi University 
-* *Multivariate data analysis*: Contract instructor, 14 hours
+* *Multivariate data analysis*: Contract instructor, 14 hours  
   Bachelor’s degree in Statistics, University of Padova
 
 **2023 - 2024**
