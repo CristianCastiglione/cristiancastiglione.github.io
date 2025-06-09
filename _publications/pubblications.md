@@ -31,7 +31,8 @@ author_profile: true
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025)
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.
-  *Environmental and Ecological Statistics* (to appear).
+  *Environmental and Ecological Statistics* 
+  ([pdf](https://rdcu.be/epVF7)).
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L.M. (2024). 
   PDE-regularised spatial quantile regression.
