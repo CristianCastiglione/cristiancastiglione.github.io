@@ -14,11 +14,6 @@ author_profile: true
 
 **Submitted**
 
-* **Castiglione C.**, Bernardi M. (2024+). 
-  Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.
-  *Submitted* 
-  ([pdf](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
-
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2024+)
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
   ([pdf](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
@@ -28,6 +23,11 @@ author_profile: true
 
 
 **Journals**
+
+* **Castiglione C.**, Bernardi M. (2025). 
+  Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.
+  *Computational and Graphical Statistics* (Accepted, to appear) 
+  ([pdf](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025)
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.
