@@ -13,13 +13,20 @@ A reasonably up-to-date version of my CV can be found [here](https://cristiancas
 
 Current academic positions
 ======
-* 2024 - present: Postdoctoral Research Fellow
+* 2025 - present: Postdoctoral Research Fellow
+  * Bocconi University, Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home))
+  * Supervisor: Prof. [Daniele Durante](https://danieledurante.github.io/web/)
+  * Project: sociogeNEsis of criMinal nEtworks: reconStruction, dIscovery and diSruption ([NEMESIS](https://danieledurante.github.io/web/nemesis.html)) -- ERC Grant
+
+
+
+Past academic positions
+======
+* 2024 - 2025: Postdoctoral Research Fellow
   * Bocconi University, Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home))
   * Supervisor: Prof. [Daniele Durante](https://danieledurante.github.io/web/)
   * Project: Causes of deAth dependence stRuctures and the cOmpositioNal effecT on ovErall mortality ([CARONTE](https://danieledurante.github.io/web/caronte.html)) -- PRIN Grant
 
-Past academic positions
-======
 * 2023 - 2024: Postdoctoral Research Fellow, 
   * University of Padova, Department of Statistical Sciences
   * Supervisor: Prof. [Davide Risso](https://drisso.github.io/index.html)
