@@ -16,7 +16,7 @@ author_profile: true
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2024+)
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
-  ([pdf](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
+  ([arxiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2024+)
   A semiparametric space-time quantile regression model.
@@ -26,8 +26,8 @@ author_profile: true
 
 * **Castiglione C.**, Bernardi M. (2025). 
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.
-  *Computational and Graphical Statistics* (Accepted, to appear) 
-  ([pdf](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
+  *Computational and Graphical Statistics*
+  ([pdf](https://doi.org/10.1080/10618600.2025.2527925), [arxiv](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025)
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.
@@ -80,7 +80,7 @@ author_profile: true
 
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025)
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.
-  ([pdf](https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1))
+  ([biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1))
 
 * Romanò G., **Castiglione C.**, Durante D. (2025+)
   Dependent stochastic block models for sequences of directed networks with application to causes of death co-occurences.
