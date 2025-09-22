@@ -18,11 +18,13 @@ author_profile: true
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
   ([arxiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
-* Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2024+)
-  A semiparametric space-time quantile regression model.
-
 
 **Journals**
+
+* Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2025)
+  A semiparametric space-time quantile regression model.
+  *Journal of Nonparametric Statistics*
+  (Accepted, in press)
 
 * **Castiglione C.**, Bernardi M. (2025). 
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.
