@@ -19,7 +19,7 @@ author_profile: true
   ([arxiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
 * Romanò G., **Castiglione C.**, Durante D. (2025+)
-  Dependent stochastic block models for sequences of directed networks with application to causes of death co-occurences.
+  Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.
   ([arXiv](https://arxiv.org/abs/2510.01806))
 
 
