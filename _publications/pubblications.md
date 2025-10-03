@@ -14,9 +14,13 @@ author_profile: true
 
 **Submitted**
 
-* **Castiglione C.**, Segers A., Clement L., Risso D. (2024+)
+* **Castiglione C.**, Segers A., Clement L., Risso D. (2025+)
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
   ([arxiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
+
+* Romanò G., **Castiglione C.**, Durante D. (2025+)
+  Dependent stochastic block models for sequences of directed networks with application to causes of death co-occurences.
+  ([arXiv](https://arxiv.org/abs/2510.01806))
 
 
 **Journals**
@@ -83,9 +87,6 @@ author_profile: true
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025)
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.
   ([biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1))
-
-* Romanò G., **Castiglione C.**, Durante D. (2025+)
-  Dependent stochastic block models for sequences of directed networks with application to causes of death co-occurences.
 
 * **Castiglione C.**, Maestrini L., Bernardi M. (2025+).
   On frequentist variational inference for generalized additive models. 
