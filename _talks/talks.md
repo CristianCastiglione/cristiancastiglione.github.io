@@ -7,6 +7,26 @@ author_profile: true
 
 **Invited**
 
+* Romanò G., Castiglione C., Durante D. (2025).
+  Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.
+  *The sixth meeting of the Multi-Cause Network*, 
+  Barcelona, Spain, 16 – 17 October.
+
+* Romanò G., Castiglione C., Durante D. (2025).
+  Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.
+  *Climbing Mortality Models II [final workshop of CARONTE]*, 
+  Misurina, Italy, 27 – 29 August.
+
+* Castiglione C., Romanò G. (2025).
+  Age-Dependent Analysis of Mortality Patterns in Italy: A Network Perspective via Dynamic Stochastic Block Models.
+  *SIS 2025. Statistics for Innovation*, 
+  Genova, Italy, 16 – 18 June.
+
+* Castiglione C., Romanò G., Durante D. (2024).
+  Dynamic stochastic block models with application to causes of death networks.
+  *18th International Joint Conference CFE-CMStatistics 2024*, 
+  London, UK, 14 – 16 December.
+
 * Castiglione C., Arnone E., Bernardi M., Farcomeni A., Sangalli L. M. (2024). 
   A flexible framework for spatial quantile regression via PDE regularization. 
   *International Symposium on Nonparametric Statistics (ISNPS 2024)*, 
