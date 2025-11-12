@@ -16,20 +16,20 @@ author_profile: true
 
 * Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2025+).  
   Optimal lower bounds for logistic log-likelihoods.  
-  (<a href="https://arxiv.org/abs/2410.10309"><img src="../images/logo-arxiv.png" width="40">)
+  (<a href="https://arxiv.org/abs/2410.10309"><img src="../images/logo-arxiv.png" width="30"></a>)
 
 * Romanò G., **Castiglione C.**, Durante D. (2025+).  
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.
-  (<a href="https://arxiv.org/abs/2510.01806"><img src="../images/logo-arxiv.png" width="40">)  
+  (<a href="https://arxiv.org/abs/2510.01806"><img src="../images/logo-arxiv.png" width="30"></a>)  
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2025+).  
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
-  (<a href="https://arxiv.org/abs/2412.20509"><img src="../images/logo-arxiv.png" width="40">,
-   <a href="https://github.com/CristianCastiglione/sgdGMF"><img src="../images/logo-Rproject.png" width="40">)
+  (<a href="https://arxiv.org/abs/2412.20509"><img src="../images/logo-arxiv.png" width="30"></a>,
+   <a href="https://github.com/CristianCastiglione/sgdGMF"><img src="../images/logo-Rproject.png" width="30"></a>)
 
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025+).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
-  (<a href="https://www.biorxiv.org/content/10.1101/2025.03.24.644996"><img src="../images/logo-biorxiv.png" width="40">)
+  (<a href="https://www.biorxiv.org/content/10.1101/2025.03.24.644996"><img src="../images/logo-biorxiv.png" width="30"></a>)
 
 
 **Journals**
@@ -42,19 +42,19 @@ author_profile: true
 * **Castiglione C.**, Bernardi M. (2025).  
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.  
   *Computational and Graphical Statistics*
-  (<a href="https://doi.org/10.1080/10618600.2025.2527925"><img src="../images/logo-pdf.png" width="40">,
-   <a href="https://arxiv.org/abs/2206.09444"><img src="../images/logo-arxiv.png" width="40">,
-   <a href="https://github.com/CristianCastiglione/BayesGLMM.jl"><img src="../images/logo-julia.png" width="40">)
+  (<a href="https://doi.org/10.1080/10618600.2025.2527925"><img src="../images/logo-pdf.png" width="40"></a>,
+   <a href="https://arxiv.org/abs/2206.09444"><img src="../images/logo-arxiv.png" width="30"></a>,
+   <a href="https://github.com/CristianCastiglione/BayesGLMM.jl"><img src="../images/logo-julia.png" width="30"></a>)
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025).  
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.  
   *Environmental and Ecological Statistics* 
-  (<a href="https://doi.org/10.1007/s10651-025-00664-8"><img src="../images/logo-pdf.png" width="40">)
+  (<a href="https://doi.org/10.1007/s10651-025-00664-8"><img src="../images/logo-pdf.png" width="40"></a>)
   
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L.M. (2024).  
   PDE-regularised spatial quantile regression.  
   *Journal of Multivariate Analysis*.
-  (<a href="https://doi.org/10.1016/j.jmva.2024.105381"><img src="../images/logo-pdf.png" width="40">)
+  (<a href="https://doi.org/10.1016/j.jmva.2024.105381"><img src="../images/logo-pdf.png" width="40"></a>)
 
 **Proceedings and Discussions**
 
