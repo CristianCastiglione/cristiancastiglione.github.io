@@ -28,7 +28,7 @@ author_profile: true
 
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025+).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
-  ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996v1))
+  ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
 
 
 **Journals**
