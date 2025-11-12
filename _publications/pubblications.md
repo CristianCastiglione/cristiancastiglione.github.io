@@ -41,8 +41,9 @@ author_profile: true
 * **Castiglione C.**, Bernardi M. (2025).  
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.  
   *Computational and Graphical Statistics*
-  ([pdf](https://doi.org/10.1080/10618600.2025.2527925), [arXiv](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
-  <a href="https://doi.org/10.1080/10618600.2025.2527925"><img src="../images/logo-pdf.png" width="30">
+  (<a href="https://doi.org/10.1080/10618600.2025.2527925"><img src="../images/logo-pdf.png" width="30">,
+   <a href="https://arxiv.org/abs/2206.09444"><img src="../images/logo-arxiv.png" width="30">,
+   <a href="https://github.com/CristianCastiglione/BayesGLMM.jl"><img src="../images/logo-julia.png" width="30">)
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025).  
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.  
