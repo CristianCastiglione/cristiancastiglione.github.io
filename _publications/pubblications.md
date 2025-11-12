@@ -25,7 +25,7 @@ author_profile: true
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2025+).  
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
   (<a href="https://arxiv.org/abs/2412.20509"><img src="../images/logo-arxiv.png" width="30"></a>,
-   <a href="https://github.com/CristianCastiglione/sgdGMF"><img src="../images/logo-Rproject.png" width="30"></a>)
+   <a href="https://github.com/CristianCastiglione/sgdGMF"><img src="../images/logo-Rcode.png" width="30"></a>)
 
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025+).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
@@ -44,7 +44,7 @@ author_profile: true
   *Computational and Graphical Statistics*
   (<a href="https://doi.org/10.1080/10618600.2025.2527925"><img src="../images/logo-pdf.png" width="40"></a>,
    <a href="https://arxiv.org/abs/2206.09444"><img src="../images/logo-arxiv.png" width="30"></a>,
-   <a href="https://github.com/CristianCastiglione/BayesGLMM.jl"><img src="../images/logo-julia.png" width="30"></a>)
+   <a href="https://github.com/CristianCastiglione/BayesGLMM.jl"><img src="../images/logo-juliacode.png" width="30"></a>)
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025).  
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.  
