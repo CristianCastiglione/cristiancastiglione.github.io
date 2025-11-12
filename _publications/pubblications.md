@@ -14,10 +14,6 @@ author_profile: true
 
 **Submitted**
 
-* Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2025+)
-  Optimal lower bounds for logistic log-likelihoods.
-  ([arXiv](https://arxiv.org/abs/2410.10309))
-
 * Romanò G., **Castiglione C.**, Durante D. (2025+)
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.
   ([arXiv](https://arxiv.org/abs/2510.01806))
