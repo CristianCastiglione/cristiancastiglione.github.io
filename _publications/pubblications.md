@@ -14,6 +14,10 @@ author_profile: true
 
 **Submitted**
 
+* Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2025+)
+  Optimal lower bounds for logistic log-likelihoods.
+  ([arXiv](https://arxiv.org/abs/2410.10309))
+
 * Romanò G., **Castiglione C.**, Durante D. (2025+)
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.
   ([arXiv](https://arxiv.org/abs/2510.01806))
@@ -49,12 +53,7 @@ author_profile: true
   *Journal of Multivariate Analysis*.
   ([pdf](https://doi.org/10.1016/j.jmva.2024.105381)).
 
-* Sottosanti A., Risso D., **Castiglione C.** (2022) 
-  Contributed discussion: “Bayesian Nonstationary and Nonparametric Covariance Estimation for Large Spatial Data” by B. Kidd and M. Katzfuss. 
-  *Bayesian Analysis* 17(1):337-339.
-
-
-**Proceedings**
+**Proceedings and Discussions**
 
 * **Castiglione C.**, Romanò G. (2025).
   Age-Dependent Analysis of Mortality Patterns in Italy: A Network Perspective via Dynamic Stochastic Block Models.
@@ -70,6 +69,10 @@ author_profile: true
   Penalized quantile regression for spatially distributed data.
   *Book of Short Papers GRASPA 2023, Proceedings of the GRASPA 2023 Conference* 
   (Adelfio, G. and Abbruzzo, A.), pp. 124–129.
+
+* Sottosanti A., Risso D., **Castiglione C.** (2022) 
+  Contributed discussion: “Bayesian Nonstationary and Nonparametric Covariance Estimation for Large Spatial Data” by B. Kidd and M. Katzfuss. 
+  *Bayesian Analysis* 17(1):337-339.
 
 * **Castiglione C.**, Bernardi M. (2022). 
   Probabilistic load forecasting via dynamic quantile regression.
@@ -88,7 +91,7 @@ author_profile: true
 
 **Ongoing projects**
 
-* **Castiglione C.**, Maestrini L., Bernardi M. (2025+).
+* **Castiglione C.** (2025+).
   On frequentist variational inference for generalized additive models. 
 
 * Bianco N., **Castiglione C.** (2025+). 
