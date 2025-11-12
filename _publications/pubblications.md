@@ -15,7 +15,7 @@ author_profile: true
 **Submitted**
 
 * Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2025+).  
-  Optimal lower bounds for logistic log-likelihoods.  
+  Optimal and computationally tractable lower bounds for logistic log-likelihoods.  
   ([arXiv](https://arxiv.org/abs/2410.10309))
 
 * Romanò G., **Castiglione C.**, Durante D. (2025+).  
