@@ -92,10 +92,13 @@ author_profile: true
 **Ongoing projects**
 
 * **Castiglione C.**, Maestrini L., Bernardi M. (2025+).  
-  On frequentist variational inference for generalized additive models.
+  On frequentist variational inference for generalized additive models.  
+  *Working paper*.
 
 * Bianco N., **Castiglione C.** (2025+).  
-  Improving Bayesian semi-parametric regression via increasing shrinkage priors.
+  Improving Bayesian semi-parametric regression via increasing shrinkage priors.  
+  *Working paper*.
+
 
 
 
