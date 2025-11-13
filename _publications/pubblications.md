@@ -35,22 +35,22 @@ author_profile: true
 
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2025).  
   A semiparametric space-time quantile regression model.  
-  *Journal of Nonparametric Statistics*
+  *Journal of Nonparametric Statistics* (Accepted, in press).
   (Accepted, in press)
 
 * **Castiglione C.**, Bernardi M. (2025).  
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.  
-  *Computational and Graphical Statistics*
+  *journal Computational and Graphical Statistics* (Accepted, in press).
   ([pdf](https://doi.org/10.1080/10618600.2025.2527925), [arXiv](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025).  
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.  
-  *Environmental and Ecological Statistics* 
+  *Environmental and Ecological Statistics*, 32: 855--892. 
   ([pdf](https://doi.org/10.1007/s10651-025-00664-8)).
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L.M. (2024).  
   PDE-regularised spatial quantile regression.  
-  *Journal of Multivariate Analysis*.
+  *Journal of Multivariate Analysis*, 205: 105381.
   ([pdf](https://doi.org/10.1016/j.jmva.2024.105381)).
 
 **Proceedings and Discussions**
