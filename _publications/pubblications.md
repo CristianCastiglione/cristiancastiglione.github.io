@@ -58,12 +58,12 @@ author_profile: true
 * **Castiglione C.**, Romanò G. (2025).  
   Age-Dependent Analysis of Mortality Patterns in Italy: A Network Perspective via Dynamic Stochastic Block Models.  
   *Statistics for Innovation I, SIS 2025, Short Papers, Plenary, Specialized, and Solicited Sessions* 
-  (di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S.), pp. 271-276.
+  (di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S.), pp. 271–276.
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).  
   Penalised Spatial Quantile Regression: Application to Air Quality Data.  
   *Book of Short Papers 2024, Proceedings of the 53rd Scientific Meeting of the Italian Statistical Society* 
-  (Pollice, A., Mariani, P.), pp. 532--537.
+  (Pollice, A., Mariani, P.), pp. 532–537.
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L. M. (2023).  
   Penalized quantile regression for spatially distributed data.  
@@ -72,7 +72,7 @@ author_profile: true
 
 * Sottosanti A., Risso D., **Castiglione C.** (2022).  
   Contributed discussion: “Bayesian nonstationary and nonparametric covariance estimation for large spatial data”  
-  by B. Kidd and M. Katzfuss. *Bayesian Analysis* 17(1):337-339.
+  by B. Kidd and M. Katzfuss. *Bayesian Analysis*, 17(1): 337–339.
 
 * **Castiglione C.**, Bernardi M. (2022).  
   Probabilistic load forecasting via dynamic quantile regression.  
