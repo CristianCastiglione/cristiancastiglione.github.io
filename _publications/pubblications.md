@@ -70,9 +70,9 @@ author_profile: true
   *Book of Short Papers GRASPA 2023, Proceedings of the GRASPA 2023 Conference* 
   (Adelfio, G. and Abbruzzo, A.), pp. 124–129.
 
-* Sottosanti A., Risso D., **Castiglione C.** (2022).   
-  Contributed discussion: “Bayesian Nonstationary and Nonparametric Covariance Estimation for Large Spatial Data” by B. Kidd and M. Katzfuss.  
-  *Bayesian Analysis* 17(1):337-339.
+* Sottosanti A., Risso D., **Castiglione C.** (2022).  
+  Contributed discussion: “Bayesian nonstationary and nonparametric covariance estimation for large spatial data”  
+  by B. Kidd and M. Katzfuss. *Bayesian Analysis* 17(1):337-339.
 
 * **Castiglione C.**, Bernardi M. (2022).  
   Probabilistic load forecasting via dynamic quantile regression.  
