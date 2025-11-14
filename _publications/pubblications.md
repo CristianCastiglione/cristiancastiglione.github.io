@@ -96,7 +96,7 @@ author_profile: true
   *Working paper*.
 
 * Bianco N., **Castiglione C.** (2025+).  
-  Improving Bayesian semi-parametric regression via increasing shrinkage priors.  
+  Improving Bayesian semiparametric regression via increasing shrinkage priors.  
   *Working paper*.
 
 
