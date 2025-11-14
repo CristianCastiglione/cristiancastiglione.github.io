@@ -56,12 +56,12 @@ author_profile: true
 **Proceedings and Discussions**
 
 * **Castiglione C.**, Romanò G. (2025).  
-  Age-Dependent Analysis of Mortality Patterns in Italy: A Network Perspective via Dynamic Stochastic Block Models.  
+  Age-dependent analysis of mortality patterns in Italy: a network perspective via dynamic stochastic block models.  
   *Statistics for Innovation I, SIS 2025, Short Papers, Plenary, Specialized, and Solicited Sessions* 
   (di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S.), pp. 271–276.
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).  
-  Penalised Spatial Quantile Regression: Application to Air Quality Data.  
+  Penalised spatial quantile regression: application to air quality data.  
   *Book of Short Papers 2024, Proceedings of the 53rd Scientific Meeting of the Italian Statistical Society* 
   (Pollice, A., Mariani, P.), pp. 532–537.
 
