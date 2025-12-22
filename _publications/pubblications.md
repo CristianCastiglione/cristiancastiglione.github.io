@@ -36,7 +36,7 @@ author_profile: true
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2025).  
   A semiparametric space-time quantile regression model.  
   *Journal of Nonparametric Statistics* (Accepted, in press).
-  ([report](https://www.mate.polimi.it/biblioteca/add/qmox/33-2025.pdf))
+  ([pdf](https://doi.org/10.1080/10485252.2025.2593910), [report](https://www.mate.polimi.it/biblioteca/add/qmox/33-2025.pdf))
 
 * **Castiglione C.**, Bernardi M. (2025).  
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.  
