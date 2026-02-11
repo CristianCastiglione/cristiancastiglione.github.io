@@ -22,17 +22,17 @@ author_profile: true
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.  
   ([arXiv](https://arxiv.org/abs/2510.01806))
 
-* **Castiglione C.**, Segers A., Clement L., Risso D. (2025+).  
-  Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
-  *Biostatistics* (Accepted, in press). 
-  ([arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
-
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025+).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
   ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
 
 
 **Journals**
+
+* **Castiglione C.**, Segers A., Clement L., Risso D. (2025+).  
+  Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
+  *Biostatistics* (Accepted, in press). 
+  ([arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2025).  
   A semiparametric space-time quantile regression model.  
