@@ -30,7 +30,7 @@ author_profile: true
 **Journals**
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2025+).  
-  Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data. 
+  Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
   *Biostatistics* (Accepted, in press). 
   ([arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
