@@ -14,17 +14,17 @@ author_profile: true
 
 **Submitted**
 
-* Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2025+).  
+* Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2026+).  
   Optimal and computationally tractable lower bounds for logistic log-likelihoods.  
   ([arXiv](https://arxiv.org/abs/2410.10309))
 
-* Romanò G., **Castiglione C.**, Durante D. (2025+).  
+* Romanò G., **Castiglione C.**, Durante D. (2026+).  
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.  
   ([arXiv](https://arxiv.org/abs/2510.01806))
 
 **Journals**
 
-* Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025+).  
+* Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2026).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
   *Nature Communications* (Accepted, in press). 
   ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
