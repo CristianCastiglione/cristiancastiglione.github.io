@@ -34,14 +34,14 @@ author_profile: true
   *Biostatistics* (Accepted, in press). 
   ([arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
-* Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2025).  
+* Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2026).  
   A semiparametric space-time quantile regression model.  
-  *Journal of Nonparametric Statistics* (Accepted, in press).
+  *Journal of Nonparametric Statistics*, 38(1): 279--310.
   ([pdf](https://doi.org/10.1080/10485252.2025.2593910), [report](https://www.mate.polimi.it/biblioteca/add/qmox/33-2025.pdf))
 
 * **Castiglione C.**, Bernardi M. (2025).  
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.  
-  *journal Computational and Graphical Statistics* (Accepted, in press).
+  *journal Computational and Graphical Statistics*, 35(1): 304--314.
   ([pdf](https://doi.org/10.1080/10618600.2025.2527925), [arXiv](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025).  
