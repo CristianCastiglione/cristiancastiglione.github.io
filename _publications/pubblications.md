@@ -22,12 +22,12 @@ author_profile: true
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.  
   ([arXiv](https://arxiv.org/abs/2510.01806))
 
+**Journals**
+
 * Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2025+).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
+  *Nature Communications* (Accepted, in press). 
   ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
-
-
-**Journals**
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2026).  
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
