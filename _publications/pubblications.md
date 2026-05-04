@@ -24,7 +24,7 @@ author_profile: true
 
 **Journals**
 
-* Segers A., **Castiglione C.**, Vanderaa C., De Baere E., Martens L., Risso D., Clement L. (2026).  
+* Segers A., **Castiglione C.**, Vanderaa C., Martens L., Risso D., Clement L. (2026).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
   *Nature Communications* (Accepted, in press). 
   ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
@@ -62,9 +62,14 @@ author_profile: true
   (di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S.), pp. 271–276.
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).  
-  Penalised spatial quantile regression: application to air quality data.  
+  Penalised Spatial Quantile Regression: Application to Air Quality Data.  
   *Book of Short Papers 2024, Proceedings of the 53rd Scientific Meeting of the Italian Statistical Society* 
   (Pollice, A., Mariani, P.), pp. 532–537.
+
+* De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).  
+  Estimating multiple quantile surfaces: A penalized functional approach.  
+  *New Trends in Functional Statistics and Related Fields* 
+  (Aneiros G., Bongiorno E.G., Goia A., Hušková M.), pp. 151–158.
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L. M. (2023).  
   Penalized quantile regression for spatially distributed data.  
