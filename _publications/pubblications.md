@@ -16,7 +16,7 @@ author_profile: true
 
 * Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2026+).  
   Optimal and computationally tractable lower bounds for logistic log-likelihoods.  
-  ([arXiv](https://arxiv.org/abs/2410.10309))
+  ([arXiv](https://arxiv.org/abs/2410.10309), [Code](https://github.com/niccoloanceschi/logitPQbound))
 
 * Romanò G., **Castiglione C.**, Durante D. (2026+).  
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.  
@@ -31,28 +31,28 @@ author_profile: true
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2026).  
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
-  *Biostatistics* (Accepted, in press). 
-  ([Journal](https://doi.org/10.1093/biostatistics/kxag010), [arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
+  *Biostatistics*, 27(1): kxag010. 
+  ([Journal](https://doi.org/10.1093/biostatistics/kxag010), [arXiv](https://arxiv.org/abs/2412.20509), [Code](https://github.com/CristianCastiglione/sgdGMF))
 
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2026).  
   A semiparametric space-time quantile regression model.  
   *Journal of Nonparametric Statistics*, 38(1): 279--310.
-  ([pdf](https://doi.org/10.1080/10485252.2025.2593910), [report](https://www.mate.polimi.it/biblioteca/add/qmox/33-2025.pdf))
+  ([Journal](https://doi.org/10.1080/10485252.2025.2593910))
 
 * **Castiglione C.**, Bernardi M. (2025).  
   Non-conjugate variational Bayes for pseudo-likelihood mixed effect models.  
   *journal Computational and Graphical Statistics*, 35(1): 304--314.
-  ([pdf](https://doi.org/10.1080/10618600.2025.2527925), [arXiv](https://arxiv.org/abs/2206.09444), [code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
+  ([Journal](https://doi.org/10.1080/10618600.2025.2527925), [arXiv](https://arxiv.org/abs/2206.09444), [Code](https://github.com/CristianCastiglione/BayesGLMM.jl)).
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Palummo A., Bernardi M., Ieva F., Sangalli L.M. (2025).  
   Exploring nitrogen dioxide spatial concentration via physics-informed multiple quantile regression.  
   *Environmental and Ecological Statistics*, 32: 855--892. 
-  ([pdf](https://doi.org/10.1007/s10651-025-00664-8)).
+  ([Journal](https://doi.org/10.1007/s10651-025-00664-8)).
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L.M. (2024).  
   PDE-regularised spatial quantile regression.  
   *Journal of Multivariate Analysis*, 205: 105381.
-  ([pdf](https://doi.org/10.1016/j.jmva.2024.105381)).
+  ([Journal](https://doi.org/10.1016/j.jmva.2024.105381)).
 
 **Proceedings and Discussions**
 
