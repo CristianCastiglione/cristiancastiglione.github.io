@@ -32,7 +32,7 @@ author_profile: true
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2026).  
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
   *Biostatistics* (Accepted, in press). 
-  ([arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
+  ([Journal](https://doi.org/10.1093/biostatistics/kxag010), [arXiv](https://arxiv.org/abs/2412.20509), [code](https://github.com/CristianCastiglione/sgdGMF))
 
 * Di Battista I., De Sanctis M.F., Arnone E., **Castiglione C.**, Palummo A., Sangalli L.M. (2026).  
   A semiparametric space-time quantile regression model.  
@@ -68,7 +68,7 @@ author_profile: true
 
 * De Sanctis M.F., Di Battista I., Arnone E., **Castiglione C.**, Bernardi M., Palummo A., Sangalli, L.M. (2024).  
   Estimating multiple quantile surfaces: A penalized functional approach.  
-  *New Trends in Functional Statistics and Related Fields* 
+  *New Trends in Functional Statistics and Related Fields, Proceedings of IWFOS 2025* 
   (Aneiros G., Bongiorno E.G., Goia A., Hušková M.), pp. 151–158.
 
 * **Castiglione C.**, Arnone E., Bernardi M., Farcomeni A., Sangalli L. M. (2023).  
