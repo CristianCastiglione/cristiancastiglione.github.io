@@ -14,15 +14,16 @@ author_profile: true
 
 **Submitted**
 
-* Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2026+).  
-  Optimal and computationally tractable lower bounds for logistic log-likelihoods.  
-  ([arXiv](https://arxiv.org/abs/2410.10309), [Code](https://github.com/niccoloanceschi/logitPQbound))
-
 * Romanò G., **Castiglione C.**, Durante D. (2026+).  
   Dependent stochastic block models for age-indexed sequences of directed causes-of-death networks.  
   ([arXiv](https://arxiv.org/abs/2510.01806))
 
 **Journals**
+
+* Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2026+).  
+  Optimal and computationally tractable lower bounds for logistic log-likelihoods. 
+  *Biometrika* (Accepted, in press) 
+  ([arXiv](https://arxiv.org/abs/2410.10309), [Code](https://github.com/niccoloanceschi/logitPQbound))
 
 * Segers A., **Castiglione C.**, Vanderaa C., Martens L., Risso D., Clement L. (2026).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
