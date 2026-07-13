@@ -28,7 +28,7 @@ author_profile: true
 * Segers A., **Castiglione C.**, Vanderaa C., Martens L., Risso D., Clement L. (2026).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
   *Nature Communications* (Accepted, in press). 
-  ([bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
+  ([Journal](https://doi.org/10.1038/s41467-026-73402-8), [bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2026).  
   Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data.  
