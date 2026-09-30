@@ -22,12 +22,12 @@ author_profile: true
 
 * Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2026+).  
   Optimal and computationally tractable lower bounds for logistic log-likelihoods. 
-  *Biometrika* (Accepted, in press) 
+  *Biometrika*, asag060.
   ([Journal](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asag060/8853813), [arXiv](https://arxiv.org/abs/2410.10309), [Code](https://github.com/niccoloanceschi/logitPQbound))
 
 * Segers A., **Castiglione C.**, Vanderaa C., Martens L., Risso D., Clement L. (2026).  
   omicsGMF: a multi-tool for dimensionality reduction, batch correction and imputation applied to bulk- and single cell proteomics data.  
-  *Nature Communications* (Accepted, in press). 
+  *Nature Communications*, 17(6650). 
   ([Journal](https://doi.org/10.1038/s41467-026-73402-8), [bioRXiv](https://www.biorxiv.org/content/10.1101/2025.03.24.644996))
 
 * **Castiglione C.**, Segers A., Clement L., Risso D. (2026).  
