@@ -21,7 +21,7 @@ author_profile: true
 **Journals**
 
 * Anceschi N., **Castiglione C.**, Rigon T., Zanella G., Durante D. (2026+).  
-  Optimal and computationally tractable lower bounds for logistic log-likelihoods. 
+  Optimal and computationally tractable lower bounds for logistic log-likelihoods.  
   *Biometrika*, asag060.
   ([Journal](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asag060/8853813), [arXiv](https://arxiv.org/abs/2410.10309), [Code](https://github.com/niccoloanceschi/logitPQbound))
 
